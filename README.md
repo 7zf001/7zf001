@@ -1,8 +1,13 @@
-### Hi there 👋
-
-😀 welcome to my code world
-
-⚡ look here https://www.yuque.com/7zf001
+<p align="center">
+  <br><br>
+  <samp>
+    😀 welcome to my code world
+    <br><br>
+    ⚡ look here https://www.yuque.com/7zf001
+    <br><br>
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+  </samp>
+</p>
 
 <!--
 **7zf001/7zf001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
