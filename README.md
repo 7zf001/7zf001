@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+😀 welcome to my code world
+
+⚡ look here https://www.yuque.com/7zf001
+
 <!--
 **7zf001/7zf001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
